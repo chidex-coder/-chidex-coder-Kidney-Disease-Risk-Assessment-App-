@@ -1,1 +1,1 @@
-Chidex-Kidney-Disease-Risk-Assessment-App-
+This application is intended for educational and informational purposes only. It does not constitute medical advice.
